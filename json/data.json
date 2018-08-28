@@ -1,0 +1,169 @@
+{
+  "team_members": [
+    {
+      "name": "Strahinja Nedeljkovic",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/1.png",
+          "alt": "Stitch"
+        }
+      ],
+      "message": "Stitch is in da house!"
+    },
+    {
+      "name": "Filip Tanasijevic",
+      "role": "Backend Developer",
+      "picture_data": [
+        {
+          "src": "images/4.png",
+          "alt": "Daffy Duck"
+        }
+      ],
+      "message": "What could we eat today?"
+    },
+    {
+      "name": "Rastko Anicic",
+      "role": "Product Owner",
+      "picture_data": [
+        {
+          "src": "images/7.png",
+          "alt": "Timon"
+        }
+      ],
+      "message": "Hakuna Matata!?"
+    },
+    {
+      "name": "Ivan Ilic",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/3.png",
+          "alt": "Patrik"
+        }
+      ],
+      "message": "Can I touch it?"
+    },
+    {
+      "name": "Katarina Surla",
+      "role": "Scrum Master",
+      "picture_data": [
+        {
+          "src": "images/13.png",
+          "alt": "Lola"
+        }
+      ],
+      "message": "Are you talking to me?"
+    },
+    {
+      "name": "Marko Maric",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/11.png",
+          "alt": "Dexter"
+        }
+      ],
+      "message": "This can be done much better..."
+    },
+    {
+      "name": "Srdjan Damnjanovic",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/5.png",
+          "alt": "Samurai Jack"
+        }
+      ],
+      "message": "Someone called for the doctor?"
+    },
+    {
+      "name": "Ana Milovanovic",
+      "role": "Consultant",
+      "picture_data": [
+        {
+          "src": "images/14.png",
+          "alt": "Daphne"
+        }
+      ],
+      "message": "I love Irie FM."
+    },
+    {
+      "name": "Nikola Radulovic",
+      "role": "Backend Developer",
+      "picture_data": [
+        {
+          "src": "images/15.png",
+          "alt": "Ginie"
+        }
+      ],
+      "message": "Your wish is my command."
+    },
+    {
+      "name": "Vlajko Maric",
+      "role": "Backend Developer",
+      "picture_data": [
+        {
+          "src": "images/12.png",
+          "alt": "Fred Kremenko"
+        }
+      ],
+      "message": "Jabadabadoo!"
+    },
+    {
+      "name": "Danilo Garovic",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/10.png",
+          "alt": "Taz"
+        }
+      ],
+      "message": "Hmmm..."
+    },
+    {
+      "name": "Andrijana Mionic",
+      "role": "Frontend Developer",
+      "picture_data": [
+        {
+          "src": "images/16.png",
+          "alt": "Jasmin"
+        }
+      ],
+      "message": "There is much better solution..."
+    },
+    {
+      "name": "Lazar Deretic",
+      "role": "Software Architect",
+      "picture_data": [
+        {
+          "src": "images/17.png",
+          "alt": "N. Sane"
+        }
+      ],
+      "message": "You will never win!"
+    },
+    {
+      "name": "Ana Radovanovic",
+      "role": "Web Designer",
+      "picture_data": [
+        {
+          "src": "images/18.png",
+          "alt": "Sandy"
+        }
+      ],
+      "message": "I would use lighter blue in your case."
+    },
+    {
+      "name": "Sofija Trajkovic",
+      "role": "QA",
+      "picture_data": [
+        {
+          "src": "images/19.png",
+          "alt": "Crash Squirrel"
+        }
+      ],
+      "message": "Let's make some coffee."
+    }
+  ]
+}
